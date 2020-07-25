@@ -29,6 +29,7 @@ bot账户检测分析，用到了全面丰富的特征，对于用户的类型�
 
 人工标注bot账户可借鉴规则：
 http://wafi.iit.cnr.it/fake/fake/crowdflower/instructions/
+
 对应文章：
 [The paradigm-shift of social spambots Evidence, theories, and tools for the arms race(2017)](https://arxiv.org/pdf/1701.03017.pdf "The paradigm-shift of social spambots Evidence, theories, and tools for the arms race")
 
